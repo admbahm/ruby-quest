@@ -38,3 +38,5 @@ To run Ruby Quest on your local machine:
 4. Run the command: `ruby ruby_quest.rb`
 
 Enjoy your adventure in Ruby Quest: The Gem Hunter's Journey!
+
+YOLO BABY!!!!!
