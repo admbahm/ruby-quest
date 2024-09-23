@@ -1,0 +1,53 @@
+# Ignore bundler config
+/.bundle
+
+# Ignore all logfiles and tempfiles
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore Byebug command history file
+.byebug_history
+
+# Ignore Ruby version file
+.ruby-version
+
+# Ignore environment variables file
+.env
+
+# Ignore database configuration
+config/database.yml
+
+# Ignore coverage reports
+/coverage
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore RubyMine project files
+.idea/
+
+# Ignore gem builds
+*.gem
+
+# Ignore Ruby Gemset file
+.ruby-gemset
+
+# Ignore local bundle
+/vendor/bundle
+
+# Ignore node modules
+/node_modules
+
+# Ignore yarn error log file
+yarn-error.log
+
+# Ignore precompiled assets
+/public/assets
+
+# Ignore master key for decrypting credentials
+/config/master.key
+
+# Ignore personal TODO lists
+TODO.md
